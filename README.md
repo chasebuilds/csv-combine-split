@@ -61,3 +61,11 @@ Header matching also ignores case, spaces, dashes and underscores without any al
 ## License
 
 MIT, Chase Builds.
+
+## More from Chase Builds
+
+- **[address-normalizer](https://github.com/chasebuilds/address-normalizer)**: Messy US mailing addresses to standardized, split fields, with duplicates grouped. ([live demo](https://chasebuilds.github.io/address-normalizer/))
+- **[table-export-extension](https://github.com/chasebuilds/table-export-extension)**: Export any web table to Excel. No data leaves the browser. ([live demo](https://chasebuilds.github.io/table-export-extension/))
+- **[spreadsheet-diff](https://github.com/chasebuilds/spreadsheet-diff)**: Compare two versions of a spreadsheet, cell by cell. ([live demo](https://chasebuilds.github.io/spreadsheet-diff/))
+
+[All projects, sorted by industry](https://github.com/chasebuilds) · [chasebuilds.github.io](https://chasebuilds.github.io)
