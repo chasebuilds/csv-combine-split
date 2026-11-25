@@ -1,0 +1,7 @@
+{
+  "title": "CSV Combine and Split: Merge or split CSV and Excel files | Chase Builds",
+  "description": "Combine a folder of CSV and Excel files into one with aligned columns, or split a big file by value or size. Runs in your browser; files never leave it.",
+  "url": "https://chasebuilds.github.io/csv-combine-split/",
+  "image": "docs/demo.png",
+  "repo": "csv-combine-split"
+}
