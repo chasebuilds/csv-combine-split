@@ -1,0 +1,9 @@
+date,order_id,customer,amount,region
+2026-06-14,A1001,Granite Tools,592.82,North
+2026-09-13,A1002,Fern Hollow Farm,532.85,South
+2026-01-12,A1003,Granite Tools,387.99,South
+2026-02-27,A1004,Granite Tools,72.02,North
+2026-04-28,A1005,Ash Valley Supply,527.85,West
+2026-01-17,A1006,Ash Valley Supply,509.87,South
+2026-05-23,A1007,Cobalt Bakery,495.80,East
+2026-09-15,A1008,Birch Lane Co,531.81,South

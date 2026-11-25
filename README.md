@@ -2,6 +2,10 @@
 
 [![ci](https://github.com/chasebuilds/csv-combine-split/actions/workflows/ci.yml/badge.svg)](https://github.com/chasebuilds/csv-combine-split/actions/workflows/ci.yml) ![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue) [![MIT license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
+**[Live demo: try it in your browser](https://chasebuilds.github.io/csv-combine-split/)**. Drop in your own file or run the bundled sample with one click. The real package runs in the page with Pyodide, so files never leave your browser.
+
+[![The live demo after running the sample: the tool's summary, result tabs and output table](docs/demo.png)](https://chasebuilds.github.io/csv-combine-split/)
+
 Combines a folder of CSV and Excel files into one file. Columns are lined up by name, so a different column order or a header like "Order ID" vs "order_id" still lands in the right place, and a JSON alias map handles renamed headers ("Client" means "customer"). Every row gets a `source_file` column, and files missing columns are listed. It also splits one big file into separate files by a column value or by row count. Encoding (utf-8, utf-8 with BOM, cp1252) and delimiter (comma, semicolon, tab, pipe) are detected per file. Everything runs offline.
 
 ## Measured result
